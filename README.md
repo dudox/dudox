@@ -2,6 +2,11 @@
 
 
 <p>Welcome to my page! </br> I'm Ahmed, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/323/323341.svg" width="13"/> <b>Lagos, Nigeria</b></p>
+- 🔭 I’m currently working on ReactJS, Nodejs.
+- 🌱 I’m currently learning competitive coding and iOT based architectures.
+- ⚡  Available for collaboration.
+<p>Scholarship recipient of the linux foundation LiFT 2020. I somewhat find solace in what I do, A true lover of science and a student of the universe</p>
+<p>I also love cookie :cookie:</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
