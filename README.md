@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 <!--
 **dudox/dudox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-*  I’m currently working on ReactJS, Nodejs
-*  I’m currently learning competitive coding and iOT based architectures..
-*  Available for collaboration.
+- I’m currently working on ReactJS, Nodejs.</br>
+- I’m currently learning competitive coding and iOT based architectures.</br>
+- Available for collaboration.
 
 <p>Scholarship recipient of the linux foundation LiFT 2020. I somewhat find solace in what I do, A true lover of science and a student of the universe</p>
 <p>I also love cookie :cookie:</p>
