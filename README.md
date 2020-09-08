@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-lags/?username=dudox&theme=dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudox&show_icons=true&theme=radical" />
