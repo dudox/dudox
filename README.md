@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - I'm currently learning competitive coding and iOT based architectures.
 - Available for collaboration.
 <p>Scholarship recipient of the linux foundation LiFT 2020. I somewhat find solace in what I do, A true lover of science and a student of the universe</p>
-<p>I also love cookie :cookie:</p>
+<p>Uhmm, yeah. I love cookie :cookie:</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
