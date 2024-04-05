@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Tarasov.</h1>
-<p>Welcome to my page! </br> I'm Ahmed, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/323/323341.svg" width="13"/></b> Lagos, Nigeria</b></p>
+<p>Welcome to my page! </br> I'm Gbolahan, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/323/323341.svg" width="13"/></b> Lagos, Nigeria</b></p>
 
 Here are some ideas to get you started with:
 <!--
